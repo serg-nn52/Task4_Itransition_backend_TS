@@ -1,8 +1,8 @@
 import { User, connect, IUserModel } from "./db";
 require("dotenv").config();
-import cors from "cors";
-import path from "path";
-import express from "express";
+import cors = require("cors");
+import path = require("path");
+import express = require("express");
 
 const jsonParser = express.json();
 const app = express();
