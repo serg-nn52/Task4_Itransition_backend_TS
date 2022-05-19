@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/658.c2f8ed48.chunk.js","mappings":"qIAMA,UAJ2B,WACzB,OAAO","sources":["pages/Error404/index.tsx"],"sourcesContent":["import React from 'react';\r\n\r\nconst Error404: React.FC = () => {\r\n  return <h2>Error 404</h2>;\r\n};\r\n\r\nexport default Error404;\r\n"],"names":[],"sourceRoot":""}
